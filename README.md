@@ -1,5 +1,5 @@
 # Análisis-Covid-2020-Puno
-Presentación de un análisis de datos, 
+Presentación de un análisis de datos de la collecion de datos de Puno
 
 ## Resumen
 
