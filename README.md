@@ -11,3 +11,8 @@ Se usó Las edades, Sexo y Provincia para analizar
 - Se limpió la data porque alguno tenia errores de edad por ejemplo 0,
 - Se inluyen 3 gráficos del análisis de los datos
 - Se separa en cada pestaña el análisis
+
+## Trabajo
+
+El fichero de trabajo es : **positivos_covid-Estibens-Manchego.xls**
+- Se agregan imagnes para certificar el trabajo en caso no se pueda abrir el archivo por alguno incompetencia 
