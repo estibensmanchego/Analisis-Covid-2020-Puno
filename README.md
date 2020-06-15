@@ -15,3 +15,4 @@ Se usó Las edades, Sexo y Provincia para analizar
 ## Trabajo
 
 El fichero de trabajo es : **positivos_covid-Estibens-Manchego.xls**
+- Se agregan imagnes para certificar el trabajo en caso no se pueda abrir el archivo por alguno incompetencia 
